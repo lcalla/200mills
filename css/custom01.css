@@ -1,7 +1,19 @@
 body {
 	
 
-font-family: 'Open Sans', sans-serif;
+$font-family-sans-serif:
+  // Safari for OS X and iOS (San Francisco)
+  -apple-system,
+  // Chrome >= 56 for OS X (San Francisco), Windows, Linux and Android
+  system-ui,
+  // Chrome < 56 for OS X (San Francisco)
+  BlinkMacSystemFont,
+  // Windows
+  "Segoe UI",
+  // Android
+  "Roboto",
+  // Basic web fallback
+  "Helvetica Neue", Arial, sans-serif !default;
 
 	background-color: #fff5e6;
 	padding: 20px;	
