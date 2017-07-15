@@ -15,5 +15,9 @@ $font-family-sans-serif:
   "Helvetica Neue", Arial, sans-serif !default;
 
 	background-color: #fff5e6;
-	padding: 30px;
+	
+}
+
+.container-fluid{
+	padding: 30px;	
 }
