@@ -8,11 +8,11 @@ font-family: 'Arimo', sans-serif;
 	background-color: #eddcd5;
 }
 
-.card-deck {
-	background-color: #ede5e1;
-	
+card-deck {
+	background-color: #ede5e1;	
 }
-.card-footer {
+
+card-footer {
 	background-color: #eddcd5;
 }
 
