@@ -1,18 +1,12 @@
 h1, h2 {
-	
-font-family: 'Arimo', sans-serif;
-	
+	font-family: 'Arimo', sans-serif;
 }
 
-jumbotron {
+.jumbotron {
 	background-color: #eddcd5;
 }
 
-bg-secondary {
-	background-color: #ede5e1;	
-}
-
-card-footer {
+.card-footer {
 	background-color: #eddcd5;
 }
 
