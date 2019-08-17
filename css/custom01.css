@@ -2,12 +2,12 @@ h1, h2 {
 	font-family: 'Arimo', sans-serif;
 }
 
-#jumbotronColor {
+.jumbotron {
 	color: #542100;
 	background-color: #fff7f2;
 }
 
-#footerColor {
+.card-footer {
 	color: #542100;
 	background-color: #fff7f2;
 }
