@@ -8,11 +8,7 @@ body {
 
 .jumbotron {
 	background-color: transparent;
-	/* border-left: medium solid #ffebcc;*/
-}
-
-.ul {
-	border: medium solid #ffebcc;
+	border-left: medium solid #ffebcc;
 }
 
 
