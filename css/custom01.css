@@ -1,4 +1,4 @@
-h1, h2 {
+h1   {
 	font-family: 'Open Sans', sans-serif;
 }
 
@@ -10,9 +10,10 @@ body {
 	background-color: transparent;
 	border-left: 5px solid #ffebcc;
 }
-
+/*
 .container {
 	background-color: transparent;
 	border-left: 5px solid #ffebcc;
 }
 
+*/
