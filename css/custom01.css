@@ -17,3 +17,11 @@ h1, h2 {
 	border-style: none;
 }
 
+.card-body {
+	border-style: none;
+}
+
+.card-text {
+	border-style: none;
+}
+
