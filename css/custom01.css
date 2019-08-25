@@ -8,12 +8,12 @@ body {
 
 .jumbotron {
 	background-color: transparent;
-	border-left: medium solid #ffebcc;
+	/* border-left: medium solid #ffebcc;*/
 }
-/*
+
 .container {
 	background-color: transparent;
 	border-left: medium solid #ffebcc;
 }
 
-*/
+
