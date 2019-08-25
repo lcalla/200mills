@@ -9,7 +9,11 @@ body {
 
 .jumbotron {
 	background-color: transparent;
+}
+
+ul {
 	border-left: medium solid #ffebcc;
+	list-style-type: circle;
 }
 
 
