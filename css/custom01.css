@@ -2,3 +2,11 @@ h1, h2 {
 	font-family: 'Arimo', sans-serif;
 }
 
+.jumbotron {
+	background-color: transparent;
+}
+
+.card {
+	background-color: transparent;
+}
+
