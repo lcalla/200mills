@@ -13,6 +13,7 @@ body {
 
 .container {
 	background-color: transparent;
-	border-style: none;
+	border-style: solid;
+	border-color: #ffebcc;
 }
 
