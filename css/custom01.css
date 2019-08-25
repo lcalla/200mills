@@ -16,4 +16,8 @@ ul {
 	list-style-type: circle;
 }
 
+.card-footer {
+	background-color: transparent;
+}
+
 
