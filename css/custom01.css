@@ -1,5 +1,9 @@
 h1, h2 {
-	font-family: 'Arimo', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
 }
 
 .jumbotron {
@@ -9,23 +13,6 @@ h1, h2 {
 
 .container {
 	background-color: transparent;
-	border-style: none;
-}
-
-.card {
-	background-color: transparent;
-	border-style: none;
-}
-
-.card-body {
-	border-style: none;
-}
-
-.card-text {
-	border-style: none;
-}
-
-.list-group {
 	border-style: none;
 }
 
