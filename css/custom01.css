@@ -8,13 +8,11 @@ body {
 
 .jumbotron {
 	background-color: transparent;
-	border-style: solid;
-	border-color: #ffebcc;
+	border-left: 5px solid #ffebcc;
 }
 
 .container {
 	background-color: transparent;
-	border-style: solid;
-	border-color: #ffebcc;
+	border-left: 5px solid #ffebcc;
 }
 
