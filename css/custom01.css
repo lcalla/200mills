@@ -4,9 +4,16 @@ h1, h2 {
 
 .jumbotron {
 	background-color: transparent;
+	border-style: none;
+}
+
+.container {
+	background-color: transparent;
+	border-style: none;
 }
 
 .card {
 	background-color: transparent;
+	border-style: none;
 }
 
