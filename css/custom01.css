@@ -8,6 +8,8 @@ body {
 
 .jumbotron {
 	background-color: transparent;
+	border-style: solid;
+	border-color: #ffebcc;
 }
 
 .container {
